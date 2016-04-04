@@ -1,0 +1,9 @@
+<configuration>
+  <appSettings>   
+	<add key="AWSAccessKey" value=""/>
+	<add key="AWSSecretKey" value=""/>
+	<add key="AWSRegion" value="" />
+	<add key="BucketName" value="" />
+    <add key="FileName" value=""/>
+  </appSettings>
+</configuration>

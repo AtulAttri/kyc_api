@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Code/DataAccess.cs">
+      <publishTime>10/31/2013 00:58:57</publishTime>
+    </File>
+    <File Include="App_Code/integration.cs">
+      <publishTime>02/01/2014 12:44:47</publishTime>
+    </File>
+    <File Include="App_Code/orderdata.cs">
+      <publishTime>01/03/2014 11:36:50</publishTime>
+    </File>
+    <File Include="bin/ecomm.DAL.dll">
+      <publishTime>02/05/2014 23:25:39</publishTime>
+    </File>
+    <File Include="bin/ecomm.DAL.pdb">
+      <publishTime>02/05/2014 23:25:39</publishTime>
+    </File>
+    <File Include="bin/ecomm.model.dll">
+      <publishTime>02/05/2014 23:25:40</publishTime>
+    </File>
+    <File Include="bin/ecomm.model.pdb">
+      <publishTime>02/05/2014 23:25:40</publishTime>
+    </File>
+    <File Include="bin/ecomm.Payment.dll">
+      <publishTime>02/05/2014 23:25:40</publishTime>
+    </File>
+    <File Include="bin/ecomm.Payment.pdb">
+      <publishTime>02/05/2014 23:25:40</publishTime>
+    </File>
+    <File Include="bin/ecomm.util.dll">
+      <publishTime>02/05/2014 23:25:39</publishTime>
+    </File>
+    <File Include="bin/ecomm.util.pdb">
+      <publishTime>02/05/2014 23:25:39</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>07/16/2008 13:56:32</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>01/03/2014 11:34:09</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>01/03/2014 11:34:09</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>01/03/2014 11:33:31</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/03/2014 11:35:48</publishTime>
+    </File>
+    <File Include="checkout.aspx">
+      <publishTime>01/28/2014 01:01:39</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/19/2014 16:03:53</publishTime>
+    </File>
+    <File Include="img/emails/add1.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/add2.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/cart_item.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/contniue_shoping_btn.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/eselect_logo.jpg">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/facebook.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/linkedin.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/offer1.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/offer2.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/offer3.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/product1.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/product2.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/shiped.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/shopingcart_btn.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/twitter.png">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="img/emails/wipro_logo.jpg">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="loader.gif">
+      <publishTime>01/03/2014 11:36:50</publishTime>
+    </File>
+    <File Include="makePayment.aspx">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="redirecturl.aspx">
+      <publishTime>02/03/2014 21:43:33</publishTime>
+    </File>
+    <File Include="test.html">
+      <publishTime>01/03/2014 11:36:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/05/2014 23:25:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

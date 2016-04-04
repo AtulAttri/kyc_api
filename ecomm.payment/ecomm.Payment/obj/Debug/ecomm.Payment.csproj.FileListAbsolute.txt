@@ -1,0 +1,277 @@
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\log4net.dll
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+E:\Projects\ProjectWork\SVN\Annectos\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+E:\Projects\ProjectWork\GIT\Annectos\annectos.rewards.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+E:\Projects\GIT\Annectos\annectos.reward.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+E:\Projects\GIT\PUMA\bulls.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+E:\Dipanjan\Projects\GIT\Puma\bulls.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+B:\Project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+B:\working_project\Git\grassbulk\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\previous_api\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 13 08 2014\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+E:\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.api 21 08\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+B:\working_project\Git\Bulk Grass\bulk.grass.apin\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.xml
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.xml
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+D:\working\git\bulk_grass\bulkgrass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.xml
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.xml
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\22 01 2014\bulkgrass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.xml
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.xml
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+E:\Dipanjan\Projects\GIT\Bulk Grass\bulk.grass.api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.xml
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.xml
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.xml
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.xml
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+D:\working\git\bulk_grass\bulk.grass.api-latest_change\bulk.grass.api-latest\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.xml
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.xml
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+D:\working\git\bulk_grass\BulkGrassApiNew\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.dll
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\ecomm.Payment.pdb
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.dll
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\ecomm.model.dll
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\ecomm.util.dll
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.dll
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.dll
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\BCrypt.Net.dll
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\ecomm.DAL.pdb
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\ecomm.model.pdb
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\ecomm.util.pdb
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\MongoDB.Driver.xml
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\bin\MongoDB.Bson.xml
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.csprojResolveAssemblyReference.cache
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.dll
+D:\working\kyc_api\ecomm.payment\ecomm.Payment\obj\Debug\ecomm.Payment.pdb
